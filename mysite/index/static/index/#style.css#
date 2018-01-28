@@ -1,0 +1,9 @@
+h1.title {
+    font-size: xx-small;
+    text-align: center;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+    background-color: #455d94;
+}
